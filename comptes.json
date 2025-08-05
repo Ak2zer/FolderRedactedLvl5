@@ -1,0 +1,25 @@
+[
+  {
+    "username": "shadowOne",
+    "password": "accessC1A",
+    "identity": "Ethan Blackwood",
+    "role": "Directeur du Projet CONTROL",
+    "iban": "US67-CONTROL-8848-6654-1284",
+    "cryptoWallet": "0x8FaeC48936D2eFd87FA19384",
+    "calls": [
+      { "to": "+1-202-555-0198", "time": "12:32 PM - 03/06/25", "duration": "12min" },
+      { "to": "+1-202-555-0101", "time": "03:46 AM - 03/07/25", "duration": "3min" }
+    ]
+  },
+  {
+    "username": "darknetFox",
+    "password": "redacted22",
+    "identity": "Samantha Vance",
+    "role": "Analyste en Cyber-Sécurité",
+    "iban": "US77-NSA-2987-9081-7765",
+    "cryptoWallet": "0x73FdA01233bff43844Aa",
+    "calls": [
+      { "to": "+1-303-555-0142", "time": "08:15 PM - 03/04/25", "duration": "6min" }
+    ]
+  }
+]
